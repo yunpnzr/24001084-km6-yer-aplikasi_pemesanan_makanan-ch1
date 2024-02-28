@@ -29,20 +29,3 @@ open class DeliveryDataImpl: ListDelivery{
     }
 
 }
-
-/*open class DataMenu{
-
-    fun listFood() = listOf(
-        FoodMenu("Ayam Bakar", 50000),
-        FoodMenu("Ayam Goreng", 40000),
-        FoodMenu("Ayam Geprek", 40000),
-        FoodMenu("Kulit Ayam Krispi", 15000),
-        FoodMenu("Sate Usus Ayam", 5000)
-    )
-
-    fun listDelivery() = listOf(
-        DeliveryMenu("Take Away"),
-        DeliveryMenu("Delivery")
-    )
-
-}*/
